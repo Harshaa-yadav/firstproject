@@ -1,1 +1,2 @@
 This is my first git practise file.
+I updated this file with new line to check merge command..
